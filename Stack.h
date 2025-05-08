@@ -144,7 +144,7 @@ size_t Stack<T, maxSize>::length() const
 {
 	return size;
 }
-
+/////////////// ÄÇ ///////////////
 template<class T, size_t maxSize>
 bool Stack<T, maxSize>::Skobochki(const String& txt) const
 {
@@ -163,7 +163,7 @@ bool Stack<T, maxSize>::Skobochki(const String& txt) const
 			stack.push(ch);
 		}
 
-//////////////////////////////////////////////////
+/////
 		else if (ch == ')' || ch == '}' || ch == ']') 
 		{
 			if (stack.isEmpty()) 
