@@ -20,10 +20,10 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Sring.h">
+    <ClInclude Include="Stack.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="Stack.h">
+    <ClInclude Include="String.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>

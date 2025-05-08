@@ -4,8 +4,9 @@
 #include<fstream>
 #include<algorithm>
 
-#include "Sring.h"
+#include "String.h"
 #include "Stack.h"
+#include "Node.h"
 
 using namespace std;
 int main()
